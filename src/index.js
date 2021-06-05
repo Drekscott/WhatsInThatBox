@@ -21,7 +21,6 @@ import QRCode from 'qrcode'
 class BoxInfo extends React.Component {
 
   render() {
-    const status = 'Next player: X';
 
     return (
             <Card elevate style={{width: "300px", height: "300px"}} variant="outlined" square>
