@@ -1,6 +1,7 @@
 {
     "navigationFallback": {
       "rewrite": "/index.html",
+      "route":"/box/*",
       "exclude": ["/images/*.{png,jpg,gif}", "/css/*"]
     }
   }
